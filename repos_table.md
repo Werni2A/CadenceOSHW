@@ -1,0 +1,75 @@
+|                       Name                       |    Author    |                                      Fork URL                                      |Original URL|
+|--------------------------------------------------|--------------|------------------------------------------------------------------------------------|------------|
+|                  1-16_RF_PWR_DIV                 |  rifaasyari  |                https://github.com/Werni2A/rifaasyari_1-16_RF_PWR_DIV               |            |
+|                    AVRUSB500_2                   |  ChoiHyungoo |                 https://github.com/Werni2A/ChoiHyungoo_AVRUSB500_2                 |            |
+|                 Allegro-Footprint                |   ZQ200630   |                https://github.com/Werni2A/ZQ200630_Allegro-Footprint               |            |
+|                Allegro_Footprints                |    ucuncu    |                https://github.com/Werni2A/ucuncu_Allegro_Footprints                |            |
+|                BD71815AGW-EVK-101                |   ROHMUSDC   |               https://github.com/Werni2A/ROHMUSDC_BD71815AGW-EVK-101               |            |
+|                 BD8316GWL-EVK-101                |   ROHMUSDC   |                https://github.com/Werni2A/ROHMUSDC_BD8316GWL-EVK-101               |            |
+|                 BD9109FVM-EVK-101                |   ROHMUSDC   |                https://github.com/Werni2A/ROHMUSDC_BD9109FVM-EVK-101               |            |
+|                BD9251FV-EVK-Board                |   ROHMUSDC   |               https://github.com/Werni2A/ROHMUSDC_BD9251FV-EVK-Board               |            |
+|         BD9328EFJ_EVK-and-BD9329AEFJ_EVK         |   ROHMUSDC   |        https://github.com/Werni2A/ROHMUSDC_BD9328EFJ_EVK-and-BD9329AEFJ_EVK        |            |
+|                 BD95841MUVEVK-101                |   ROHMUSDC   |                https://github.com/Werni2A/ROHMUSDC_BD95841MUVEVK-101               |            |
+|                BD95861MUV-EVK-101                |   ROHMUSDC   |               https://github.com/Werni2A/ROHMUSDC_BD95861MUV-EVK-101               |            |
+|                BD9B300MUV-EVK-101                |   ROHMUSDC   |               https://github.com/Werni2A/ROHMUSDC_BD9B300MUV-EVK-101               |            |
+|                BD9B301MUV-EVK-101                |   ROHMUSDC   |               https://github.com/Werni2A/ROHMUSDC_BD9B301MUV-EVK-101               |            |
+|                 BD9C601EFJEVK-101                |   ROHMUSDC   |                https://github.com/Werni2A/ROHMUSDC_BD9C601EFJEVK-101               |            |
+|                BD9D321EFJ-EVK-101                |   ROHMUSDC   |               https://github.com/Werni2A/ROHMUSDC_BD9D321EFJ-EVK-101               |            |
+|                BD9E151NUX-EVK-101                |   ROHMUSDC   |               https://github.com/Werni2A/ROHMUSDC_BD9E151NUX-EVK-101               |            |
+|                 BD9G101G-EVK-101                 |   ROHMUSDC   |                https://github.com/Werni2A/ROHMUSDC_BD9G101G-EVK-101                |            |
+|                BD9G341AEFJ-EVK-101               |   ROHMUSDC   |               https://github.com/Werni2A/ROHMUSDC_BD9G341AEFJ-EVK-101              |            |
+|             BRCxxxxGWZ-EEPROMBreakout            |   ROHMUSDC   |            https://github.com/Werni2A/ROHMUSDC_BRCxxxxGWZ-EEPROMBreakout           |            |
+|                BU90002GWZ-EVK-101                |   ROHMUSDC   |               https://github.com/Werni2A/ROHMUSDC_BU90002GWZ-EVK-101               |            |
+|               BU90003GWZ-E2-EVK-101              |   ROHMUSDC   |              https://github.com/Werni2A/ROHMUSDC_BU90003GWZ-E2-EVK-101             |            |
+|               BU90004GWZ-E2-EVK-101              |   ROHMUSDC   |              https://github.com/Werni2A/ROHMUSDC_BU90004GWZ-E2-EVK-101             |            |
+|               BU90005GWZ-E2-EVK-101              |   ROHMUSDC   |              https://github.com/Werni2A/ROHMUSDC_BU90005GWZ-E2-EVK-101             |            |
+|               BU90006GWZ-E2-EVK-101              |   ROHMUSDC   |              https://github.com/Werni2A/ROHMUSDC_BU90006GWZ-E2-EVK-101             |            |
+|               BU90007GWZ-E2EVK-101               |   ROHMUSDC   |              https://github.com/Werni2A/ROHMUSDC_BU90007GWZ-E2EVK-101              |            |
+|                    BeagleBoard                   |  beagleboard |                 https://github.com/Werni2A/beagleboard_BeagleBoard                 |            |
+|                 BeagleBone-RevA6                 |   CircuitCo  |                https://github.com/Werni2A/CircuitCo_BeagleBone-RevA6               |            |
+|                  CP_SmartGarden                  | sangphanthanh|               https://github.com/Werni2A/sangphanthanh_CP_SmartGarden              |            |
+|        Cadence-AllegroPCBDesigner-Library        |    u-blox    |        https://github.com/Werni2A/u-blox_Cadence-AllegroPCBDesigner-Library        |            |
+|                    CadenceLib                    | bjut-MrZhang |                 https://github.com/Werni2A/bjut-MrZhang_CadenceLib                 |            |
+|                    CadenceLib                    |  liuyang9609 |                  https://github.com/Werni2A/liuyang9609_CadenceLib                 |            |
+|                  CadenceLibrary                  |  vpodlesnyi  |                https://github.com/Werni2A/vpodlesnyi_CadenceLibrary                |            |
+|                 Capture_Libraries                |    ucuncu    |                 https://github.com/Werni2A/ucuncu_Capture_Libraries                |            |
+|                    DAConvertor                   |  ChoiHyungoo |                 https://github.com/Werni2A/ChoiHyungoo_DAConvertor                 |            |
+|            ElectronicDevices-Circuits            |radualexandrub|        https://github.com/Werni2A/radualexandrub_ElectronicDevices-Circuits        |            |
+|Kinoma-Element-Open-source-hardware-1st-Generation|    Kinoma    |https://github.com/Werni2A/Kinoma_Kinoma-Element-Open-source-hardware-1st-Generation|            |
+|                   LapisDevBoard                  |   ROHMUSDC   |                  https://github.com/Werni2A/ROHMUSDC_LapisDevBoard                 |            |
+|                     Mic_Array                    |  GreenHandLW |                  https://github.com/Werni2A/GreenHandLW_Mic_Array                  |            |
+|                     ORCAD_Lib                    |     looke    |                     https://github.com/Werni2A/looke_ORCAD_Lib                     |            |
+|                     ORCAD_lib                    |   BerZerKku  |                   https://github.com/Werni2A/BerZerKku_ORCAD_lib                   |            |
+|                      OnyxPSU                     |  MiddleMan5  |                    https://github.com/Werni2A/MiddleMan5_OnyxPSU                   |            |
+|                    Open_Breath                   |  CombatCovid |                 https://github.com/Werni2A/CombatCovid_Open_Breath                 |            |
+|                  OrCADSchematic                  |    ghdcjf5   |                  https://github.com/Werni2A/ghdcjf5_OrCADSchematic                 |            |
+|                  Orcad-libraries                 |   ottoragam  |                https://github.com/Werni2A/ottoragam_Orcad-libraries                |            |
+|                   Orcad_library                  |   Anastien   |                  https://github.com/Werni2A/Anastien_Orcad_library                 |            |
+|                      PCB_LIB                     |   taoyilee   |                     https://github.com/Werni2A/taoyilee_PCB_LIB                    |            |
+|                      PCB_lib                     | JerryZheng89 |                   https://github.com/Werni2A/JerryZheng89_PCB_lib                  |            |
+|                    Proiect-TIE                   |   adrianntz  |                  https://github.com/Werni2A/adrianntz_Proiect-TIE                  |            |
+|     ROHM-SensorExpo2016-Pressure-Sensor-Demo     |   ROHMUSDC   |    https://github.com/Werni2A/ROHMUSDC_ROHM-SensorExpo2016-Pressure-Sensor-Demo    |            |
+|               ROHMSensorPlatformEVK              |   ROHMUSDC   |              https://github.com/Werni2A/ROHMUSDC_ROHMSensorPlatformEVK             |            |
+|      ROHM_SensorPlatform_Multi-Sensor-Shield     |   ROHMUSDC   |     https://github.com/Werni2A/ROHMUSDC_ROHM_SensorPlatform_Multi-Sensor-Shield    |            |
+|       ROHM_USB-PD_BM92T30-BM92T70-EVK-Demo       |   ROHMUSDC   |      https://github.com/Werni2A/ROHMUSDC_ROHM_USB-PD_BM92T30-BM92T70-EVK-Demo      |            |
+|                       Sonic                      |   wesolost   |                      https://github.com/Werni2A/wesolost_Sonic                     |            |
+|                 StepperDriverCTRL                |   ROHMUSDC   |                https://github.com/Werni2A/ROHMUSDC_StepperDriverCTRL               |            |
+|                  allegro-library                 |   jmerdich   |                 https://github.com/Werni2A/jmerdich_allegro-library                |            |
+|                    allegrolib                    |    hypeer    |                    https://github.com/Werni2A/hypeer_allegrolib                    |            |
+|             beagle-cadence-libraries             |  beagleboard |           https://github.com/Werni2A/beagleboard_beagle-cadence-libraries          |            |
+|                  beagleboard-x15                 |  beagleboard |               https://github.com/Werni2A/beagleboard_beagleboard-x15               |            |
+|                  beagleboard-xm                  |  beagleboard |                https://github.com/Werni2A/beagleboard_beagleboard-xm               |            |
+|                 beaglebone-black                 |  beagleboard |               https://github.com/Werni2A/beagleboard_beaglebone-black              |            |
+|            cadence-cis-allegro-library           | littlebadbay |         https://github.com/Werni2A/littlebadbay_cadence-cis-allegro-library        |            |
+|                   cutiepi-board                  |  cutiepi-io  |                 https://github.com/Werni2A/cutiepi-io_cutiepi-board                |            |
+|              develop-reference-data              |     Pf-G     |               https://github.com/Werni2A/Pf-G_develop-reference-data               |            |
+|                 kinoma-create-pcb                |    Kinoma    |                 https://github.com/Werni2A/Kinoma_kinoma-create-pcb                |            |
+|                      multio                      |   fenlogic   |                     https://github.com/Werni2A/fenlogic_multio                     |            |
+|                       nixie                      |   tbriggs6   |                      https://github.com/Werni2A/tbriggs6_nixie                     |            |
+|              orcad-schematic-symbol              |   wwng2333   |             https://github.com/Werni2A/wwng2333_orcad-schematic-symbol             |            |
+|                     orcad_lib                    |  18959263172 |                  https://github.com/Werni2A/18959263172_orcad_lib                  |            |
+|                   orcad_project                  |    uki0327   |                  https://github.com/Werni2A/uki0327_orcad_project                  |            |
+|                     project-2                    | lenhatthanh20|                 https://github.com/Werni2A/lenhatthanh20_project-2                 |            |
+|                stm8_breakout_board               |    vlsicad   |               https://github.com/Werni2A/vlsicad_stm8_breakout_board               |            |
+|                 trs80_powersupply                |   tbriggs6   |                https://github.com/Werni2A/tbriggs6_trs80_powersupply               |            |
+|          youtube-cadence-quick-tutorial          |    FEDEVEL   |          https://github.com/Werni2A/FEDEVEL_youtube-cadence-quick-tutorial         |            |
